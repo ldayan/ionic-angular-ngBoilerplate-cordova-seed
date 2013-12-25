@@ -1,4 +1,4 @@
-#Ionic angular seed with grunt and feature folders
+#Ionic angular seed with Grunt based on ngBoilerplate
 
 I really like Ionic Framework, but I'd rather use grunt with my project and feature folder aproach "a la ngBoilerplate" instead of the one currently used by seed. That's why I've created this seed project which is based half in ionic-seed and half in ngBoilerplate. 
 
