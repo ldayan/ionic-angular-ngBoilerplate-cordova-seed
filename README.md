@@ -7,3 +7,6 @@ Thanks to both of them for creating this great libraries/seed projects.
 This is released under MIT license and can be used with Ionic alpha for now. 
 
 I'll try to keep this updated :).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mgonto/ionic-angular-ngboilerplate-cordova-seed/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
